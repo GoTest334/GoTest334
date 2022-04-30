@@ -1,5 +1,6 @@
 ### Hi there 👋
-### RegularSpark is GOOD!
+### This is my Github
+### Now move along
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=GoTest334&count_private=true&show_icons=true&theme=nightowl)
 ![top](https://github-readme-stats.vercel.app/api/top-langs/?username=GoTest334&theme=nightowl)
